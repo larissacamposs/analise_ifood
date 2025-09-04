@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/larissacamposs/analise_ifood/blob/main/Ptojeto_Ifood.ipynb)
 
-Este projeto foi realizado como atividade sugerida do curso **Estatística do Básico ao Avançado (EBA)**. O objetivo é praticar **Análise Exploratória de Dados (EDA)** em um conjunto de dados de clientes do iFood.
+Este projeto foi realizado como atividade sugerida do curso **Estatística do Básico ao Avançado **. O objetivo é praticar **Análise Exploratória de Dados ** em um conjunto de dados de clientes do iFood.
 
 ## Estrutura do Projeto
 
